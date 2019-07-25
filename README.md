@@ -12,14 +12,16 @@
 
 ### 🎡Events
 ##### Kick-off & First GraphQL SG Meetup
-+ Date: **2019.7.27 or 7.28**, I will send an event in meetup for confirmed date and place.
-+ Place: **TBD**, the first meetup would be at some public place like [a lounge](https://wearespaces.com/spaces/vip-lounge/1173?duration=Hourly), however suggestions are welcomed!
-+ Free entrance for members! RSVP required on meetup and please be punctual。
++ Date: **2019.8.8**, I will send an event in meetup for confirmed date and place.
++ Place: **WeWork 60 Anson Rd**
++ Free entrance for members! Limited seats so RSVP required on meetup and please be punctual。
 + Agenda:
-    + 10 min: let's meet each other and give self introduction
-    + 10 min: Mark's brief introduction about the meetup and some related links
-    + 1 hour: Talk from speakers! Around 15 min each talk. (If you have any ideas that want to share, please submit your ideas [here](https://github.com/graphql-sg/meetup.gql/issues/1)!.
+    + ~10 min: let's meet each other and give self introduction
+    + ~20 min: brief introduction about the meetup and some related introduction
+    + 30 min: An awesome video from GraphQL .conf to share
+    + Optional: lighting talks to share your ideas/projects/recent work about GraphQL
     + Remaining time: networking, talk randomly and just have fun :D
++ If you have any ideas that want to share in the upcoming meetups, please submit your ideas [here](https://github.com/graphql-sg/meetup.gql/issues/1)
 
 ### 📰Topics
 
@@ -34,7 +36,7 @@ Here's a list for possible topics that you may have something to share with us w
 
 ### 🎙️Talks
 
-Please submit information for your talks in issue [here](https://github.com/graphql-sg/meetup.gql/issues/1) for our first meetup!
+Please submit information for your talks in issue [here](https://github.com/graphql-sg/meetup.gql/issues/1) for our upcoming meetup!
 
 History talks will be listed in this section.
 
