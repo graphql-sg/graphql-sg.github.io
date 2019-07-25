@@ -11,8 +11,8 @@
 + Contributions welcomed with [issue](https://github.com/graphql-sg/meetup.gql/issues) or [PR](https://github.com/graphql-sg/meetup.gql/compare?expand=1)! 
 
 ### 🎡Events
-##### Kick-off & First GraphQL SG Meetup
-+ Date: **2019.8.8**, I will send an event in meetup for confirmed date and place.
+##### Kick-off & First GraphQL SG Meetup [link](https://www.meetup.com/graphQL-SG/events/263455465/)
++ Date: **2019.8.8**, 7:00pm.
 + Place: **WeWork 60 Anson Rd**
 + Free entrance for members! Limited seats so RSVP required on meetup and please be punctual。
 + Agenda:
