@@ -8,7 +8,7 @@
 
 + [GraphQL SG Meetup](https://www.meetup.com/graphQL-SG/)
 + Come chat with us on [Gitter](https://gitter.im/GraphQL_SG/general-discussion?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-+ Contributions welcomed with [issue](https://github.com/graphql-sg/meetup.gql/issues) or [PR](https://github.com/graphql-sg/meetup.gql/compare?expand=1)! 
++ Want to speak at this month's talk? Submit [here](https://github.com/graphql-sg/graphql-sg.github.io/issues/1)! 
 
 ### 🎡Events
 ##### Kick-off & First GraphQL SG Meetup [link](https://www.meetup.com/graphQL-SG/events/263455465/)
