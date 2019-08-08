@@ -20,7 +20,7 @@
 + Agenda:
     + ~10 min: let's meet each other and give self introduction
     + ~30 min: brief introduction about the meetup and some related introduction. Slides can be found [here](https://github.com/graphql-sg/meetup.gql/issues/1)
-    + 30 min: OSCon video sharing, a live-coding walk-through session about GraphQL
+    + >30 min: **Live workshop!** A walk through about Github GraphQL API and server-side code.
     + Lighting talks to share your ideas/projects/recent work about GraphQL
     + Remaining time: networking, talk randomly and just have fun :D
 + Lightning talks welcomed! If you have any ideas that want to share in the upcoming meetups, please submit your ideas [here](https://github.com/graphql-sg/meetup.gql/issues/1)
