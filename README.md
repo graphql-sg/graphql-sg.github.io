@@ -2,28 +2,18 @@
 
 > _A meetup for awesome engineers interested in GraphQL or related cool stuff, in Singapore🇸🇬_
 
-[![Gitter](https://badges.gitter.im/GraphQL_SG/general-discussion.svg)](https://gitter.im/GraphQL_SG/general-discussion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[Our telegram group chat](https://t.me/graphqlsg)
 
 ### 🧷Links
 
-+ [GraphQL SG Meetup](https://www.meetup.com/graphQL-SG/)
-+ Come chat with us on [Gitter](https://gitter.im/GraphQL_SG/general-discussion?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-+ Want to speak at this month's talk? Submit [here](https://github.com/graphql-sg/graphql-sg.github.io/issues/1)! 
++ [GraphQL SG on meetup.com](https://www.meetup.com/graphQL-SG/)
++ Come chat with us on [Telegram Channel](https://t.me/graphqlsg)!
++ Want to speak at this month's talk? Submit [here](https://github.com/graphql-sg/graphql-sg.github.io/issues/3)! 
 
 ### 🎡Events
-##### Kick-off & First GraphQL SG Meetup [link](https://www.meetup.com/graphQL-SG/events/263455465/)
-+ Date: **2019.8.8**, 7:00pm.
-+ Place: **WeWork 60 Anson Rd**
-+ Free entrance for members! Limited seats so RSVP required on meetup and **please be punctual**. **Please bring your Photo ID in case for visitor entrance**
-+ Free GraphQL stickers available! 😎
-+ No food sponsor this time so please get a bite to eat before you arrive, sponsor searching in progress!
-+ Agenda:
-    + ~10 min: let's meet each other and give self introduction
-    + ~30 min: brief introduction about the meetup and some related introduction. Slides can be found [here](https://github.com/graphql-sg/meetup.gql/issues/1)
-    + over 30 min: **Live workshop!** A walk through about Github GraphQL API and server-side code.
-    + Lighting talks to share your ideas/projects/recent work about GraphQL
-    + Remaining time: networking, talk randomly and just have fun :D
-+ Lightning talks welcomed! If you have any ideas that want to share in the upcoming meetups, please submit your ideas [here](https://github.com/graphql-sg/meetup.gql/issues/1)
+
+#### GraphQL.sg meetup #2 [link]()
+Details TBD. Please submit your speach proposal [here](https://github.com/graphql-sg/graphql-sg.github.io/issues/3).
 
 ### 📍How to get there?
 + Location: **WeWork 60 Anson Rd**, thanks [WeWork](https://help.meetup.com/hc/en-us/articles/360004656412-What-is-Meetup-WeWork-) for providing the place!
@@ -47,9 +37,21 @@ Here's a list for possible topics that you may have something to share with us w
 + Awesome GraphQL libraries with high quality but rare usage, could be of your own work!
 + Use GraphQL with programming languages like `go`, `TypeScript`, `Java`, etc.
 
-### 🎙️Talks
+### 🎙️Past talks
 
-History talks will be listed in this section.
+#### Kick-off & First GraphQL SG Meetup [link](https://www.meetup.com/graphQL-SG/events/263455465/)
++ Date: **2019.8.8**, 7:00pm.
++ Place: **WeWork 60 Anson Rd**
++ Free entrance for members! Limited seats so RSVP required on meetup and **please be punctual**. **Please bring your Photo ID in case for visitor entrance**
++ Free GraphQL stickers available! 😎
++ No food sponsor this time so please get a bite to eat before you arrive, sponsor searching in progress!
++ Agenda:
+    + ~10 min: let's meet each other and give self introduction
+    + ~30 min: brief introduction about the meetup and some related introduction. Slides can be found [here](https://github.com/graphql-sg/meetup.gql/issues/1)
+    + over 30 min: **Live workshop!** A walk through about Github GraphQL API and server-side code.
+    + Lighting talks to share your ideas/projects/recent work about GraphQL
+    + Remaining time: networking, talk randomly and just have fun :D
++ Lightning talks welcomed! If you have any ideas that want to share in the upcoming meetups, please submit your ideas [here](https://github.com/graphql-sg/meetup.gql/issues/1)
 
 ### 🏫Begineer friendly links
 
