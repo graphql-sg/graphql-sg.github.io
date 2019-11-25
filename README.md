@@ -12,8 +12,15 @@
 
 ### 🎡Events
 
-#### GraphQL.sg meetup #2 [link]()
-Details TBD. Please submit your speach proposal [here](https://github.com/graphql-sg/graphql-sg.github.io/issues/3).
+#### GraphQL.sg meetup #2 [link](https://www.meetup.com/GraphQL-SG/)
++ Date: **2020.1.14**, 7:00pm.
++ Food and place: sponsor TBD
++ Free entrance for members! Limited seats so RSVP required on meetup and **please be punctual**. **Please bring your Photo ID in case for visitor entrance**
++ Free GraphQL stickers available! 😎
++ Agenda:
+    + TBD. Please submit your speach proposal [here](https://github.com/graphql-sg/graphql-sg.github.io/issues/3).
+
+---
 
 ### 📍How to get there?
 + Location: **WeWork 60 Anson Rd**, thanks [WeWork](https://help.meetup.com/hc/en-us/articles/360004656412-What-is-Meetup-WeWork-) for providing the place!
