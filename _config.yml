@@ -1,1 +1,16 @@
+# Name of website
+title: GraphQL Singapore
+
+# Short description of your site
+description: Official website of GraphQL Singapore tech meetup.
+
 theme: jekyll-theme-slate
+
+author:
+  name: Mark Feng
+  
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
