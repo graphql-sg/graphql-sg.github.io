@@ -11,7 +11,7 @@ Thanks to everyone who have attended & contributed with the 2nd #GraphQL meetup 
 We have huge plans for 2020 🎉 but we cannot make it without your feedback!
 
 🙏 Fill the 30 seconds form to learn about your meetup preferences in terms of days, times, food, topics, among others:
-https://docs.google.com/a/graphql-hongkong.org/forms/d/1wPJbGwoPHt40nT_-zLeubtVJOtZrZW_CpRQZ_7L0iTs/edit?usp=drivesdk
+[Google form link](https://docs.google.com/forms/d/1wPJbGwoPHt40nT_-zLeubtVJOtZrZW_CpRQZ_7L0iTs/viewform?edit_requested=true)
 
 Keep an eye 👀, there're tons of meetups & #announcements coming in 2020 🎉
 
