@@ -4,6 +4,19 @@
 
 [Our telegram group chat](https://t.me/graphqlsg)
 
+### ⌚️2020
+
+Thanks to everyone who have attended & contributed with the 2nd #GraphQL meetup in #Singapore 🇸🇬. It was a great success, we have no words ❤️
+
+We have huge plans for 2020 🎉 but we cannot make it without your feedback!
+
+🙏 Fill the 30 seconds form to learn about your meetup preferences in terms of days, times, food, topics, among others:
+https://docs.google.com/a/graphql-hongkong.org/forms/d/1wPJbGwoPHt40nT_-zLeubtVJOtZrZW_CpRQZ_7L0iTs/edit?usp=drivesdk
+
+Keep an eye 👀, there're tons of meetups & #announcements coming in 2020 🎉
+
+Thanks again, have a great end/start of the year & looking forward to seeing y'all soon 😄
+
 ### 🧷Links
 
 + [GraphQL SG on meetup.com](https://www.meetup.com/graphQL-SG/)
@@ -18,20 +31,6 @@
 + Place: Please follow the awesome [guide](https://hackerspace.sg/location/) to approach HackerspaceSG
 + Free entrance for members! Limited seats so RSVP required on meetup and **please be punctual**. **Please bring your Photo ID in case for visitor entrance**
 + Free GraphQL stickers available! 😎
-+ Agenda:
-	+ 18:30 - 19:00 Registration: Get ready meeting new folks & enjoying pizza/drinks
-	+ 19:00 - 19:15 Welcome & Intro: Discover GraphQL Singapore meetup core values, speakers & sponsors.
-	+ 19:15 - 19:30 What's happening in GraphQL last year?
-		+ Mark Feng - Organizer, GraphQL Singapore
-		+ [Twitter](https://twitter.com/markfeng_sg)
-	+ 19:30 - 20:00 End-to-end Type-Safe GraphQL Apps
-		+ Carlos Rufo - Organizer, GraphQL Hong Kong
-		+ [Twitter](https://twitter.com/swcarlosrj)
-	+ 20:00 - 20:30 Graffy - Live Queries for Graph-Shaped Data
-		+ Aravind Ravi - CTO, [nektar.ai](http://nektar.ai/)
-		+ [Github](https://github.com/aravindet)
-	+ 20:30 - 20:45 [To be filled](#)
-	+ 20:45 - 21:00 Q&A 
 
 ### 💰Sponsorship
 + [Hasura](https://hasura.io/): Hasura is an open source engine that connects to your databases & microservices and flash instantly gives you a production-ready GraphQL API.
@@ -56,6 +55,7 @@ Here's a list of possible topics that you may have something to share with us wi
 
 ### 🎙️Past talks
 1. [Kick-off & First GraphQL SG Meetup](https://www.meetup.com/graphQL-SG/events/263455465/)
+2. [GraphQL Singapore meetup #2](https://www.meetup.com/GraphQL-SG/events/267262157/)
 
 ### 🏫Begineer friendly links
 + [GraphQL of Thrones](https://graphql-of-thrones.herokuapp.com/) Total beginner tutorial focused on just GraphQL without all the tooling, recommended
