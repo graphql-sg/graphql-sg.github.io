@@ -4,6 +4,13 @@
 
 [Our telegram group chat](https://t.me/graphqlsg)
 
+### 🎡GraphQL Asia 2020
+![image](https://user-images.githubusercontent.com/52192430/72357296-b2204b80-3725-11ea-85cc-a216932017d8.png)
+
+I am excited to announce that GraphQL Singapore is an official community partner of [GraphQL Asia 2020](https://graphql.asia/). GraphQL Asia is the biggest GraphQL conference in the Asia Pacific region and it is happening in Bangalore from Feb 20 to 22.
+
+Please check your mailbox (if you're a member) or our message board for more info.
+
 ### ⌚️2020
 
 Thanks to everyone who have attended & contributed with the 2nd #GraphQL meetup in #Singapore 🇸🇬. It was a great success, we have no words ❤️
