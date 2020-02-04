@@ -21,7 +21,7 @@ Please check your mailbox (if you're a member) or our message board for more inf
 
 #### [Date confirmed] GraphQL Meetup #3 x JAMstack! [link](https://github.com/graphql-sg/graphql-sg.github.io/issues/4)
 + [🎙️ Calling for speakers! Open for idea submission here.](https://github.com/graphql-sg/graphql-sg.github.io/issues/4)
-+ Date: **2020.4.9**, 6:30pm.
++ Date: **2020.4.9**, 7:00pm - 9:00pm.
 + Food and drink: TBD
 + Place: WeWork Funan, 109 North Bridge Rd, Singapore 179097 [(map)](https://www.google.com/maps/search/WeWork+Funan,+109+North+Bridge+Rd,+Singapore+179097?hl=en)
 + Free entrance for members! Limited seats so RSVP required on meetup and **please be punctual**. **Please bring your Photo ID in case for visitor entrance**
